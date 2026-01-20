@@ -1,1 +1,1 @@
-echo "hello!"
+echo "Job ID: $GITHUB_JOB"
